@@ -1,12 +1,14 @@
 # Palette Generator
 
-**Gen Palette** is a simple, elegant tool for generating beautiful color palettes from any image.  
+#### **Gen Palette** is a simple, elegant tool for generating beautiful color palettes from any image.  
 Upload an image, extract its dominant colors instantly, and copy the HEX codes — perfect for designers, developers, and creatives.
+
+
+![My Logo](https://raw.githubusercontent.com/thegobimahato/gen-pallete/main/public/preview.png)
 
 ## Live Demo
 
-![My Logo]("/public/preview.png)
-👉 [gen-pallete.vercel.app](https://gen-pallete.vercel.app/)
+### Vercel Link - 👉 [gen-pallete.vercel.app](https://gen-pallete.vercel.app/)
 
 
 ## ✨ Features
