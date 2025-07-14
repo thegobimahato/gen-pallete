@@ -35,7 +35,7 @@ export default function ListItem({ rgb, hex, loading = false }: ListItemProps) {
     >
       {/* Bottom bar with HEX code and copy button */}
       <div className="flex w-full items-center justify-between bg-white/80 px-2 py-1 text-black backdrop-blur-sm dark:bg-black/60 dark:text-white ">
-        <span className="font-mono text-xs">{hex}</span>
+        <span className="text-sm">{hex}</span>
         <button
           aria-label={copied ? 'Copied' : 'Copy HEX'}
           className="relative flex h-5 w-5 items-center justify-center"

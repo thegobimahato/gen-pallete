@@ -3,6 +3,12 @@
 **Gen Palette** is a simple, elegant tool for generating beautiful color palettes from any image.  
 Upload an image, extract its dominant colors instantly, and copy the HEX codes — perfect for designers, developers, and creatives.
 
+## Live Demo
+
+![My Logo]("/public/preview.png)
+👉 [gen-pallete.vercel.app](https://gen-pallete.vercel.app/)
+
+
 ## ✨ Features
 
 - 📸 Drag & drop or browse to upload an image
