@@ -7,8 +7,6 @@ import DisplayImage from "@/components/DisplayImage";
 import FileUpload from "@/components/FileUpload";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
-import { DotPattern } from "@/components/magicui/dot-pattern";
-import { cn } from "@/lib/utils";
 
 export default function Home() {
   const [uploadedImage, setUploadedImage] = useState<string | null>(null);
